@@ -21,8 +21,8 @@
   * [4.11. Validierung von TIFF Images mittels JHOVE](4.-job-plugins/4.11..md)
   * [4.12. Bildanalyse mittels des intranda LayoutWizzards](4.-job-plugins/4.12..md)
   * [4.13. Speicherverteilung über den Storage Balancer](4.-job-plugins/4.13..md)
-  * [4.14. Plugin: Plugin: Generierung von eBooks im Epub-Format](4.-job-plugins/4.14.-plugin-plugin-generierung-von-ebooks-im-epub-format.md)
-  * [4.15. Plugin: PDF-Generierung für den intranda viewer](4.-job-plugins/4.15.-plugin-pdf-generierung-fuer-den-intranda-viewer.md)
+  * [4.14. Plugin: Plugin: Generierung von eBooks im Epub-Format](4.-job-plugins/4.14..md)
+  * [4.15. Plugin: PDF-Generierung für den intranda viewer](4.-job-plugins/4.15..md)
   * [4.16. Plugin: Erstellung eines PDF-Dokumentes für ein gesamtes Werk](4.-job-plugins/4.16..md)
 * [5. Zusätzliche Details](5..md)
 
