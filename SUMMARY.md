@@ -22,7 +22,7 @@
   * [4.12. Bildanalyse mittels des intranda LayoutWizzards](4/4.12.md)
   * [4.13. Speicherverteilung über den Storage Balancer](4/4.13.md)
   * [4.14. Generierung von eBooks im Epub-Format](4/4.14.md)
-  * [4.15. PDF-Generierung für den intranda viewer](4/4.15.md)
+  * [4.15. PDF-Generierung für den Goobi viewer](4/4.15.md)
   * [4.16. Erstellung eines PDF-Dokumentes für ein gesamtes Werk](4/4.16.md)
 * [5. Zusätzliche Details](5.md)
 
