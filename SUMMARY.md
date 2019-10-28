@@ -24,5 +24,6 @@
   * [4.14. Generierung von eBooks im Epub-Format](4/4.14.md)
   * [4.15. PDF-Generierung für den Goobi viewer](4/4.15.md)
   * [4.16. Erstellung eines PDF-Dokumentes für ein gesamtes Werk](4/4.16.md)
+  * [4.17 Upload von Dateien in das EWIG Langzeitarchiv](4/4.17-upload-von-dateien-in-das-ewig-langzeitarchiv.md)
 * [5. Zusätzliche Details](5.md)
 
